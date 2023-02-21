@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: sseed
+Specification-Vendor: sseedsareus
+Specification-Version: 1
+Implementation-Title: forge-1.19.3-44.1.0-SwordSeed-
+Implementation-Version: 1.0
+Implementation-Vendor: sseedsareus
+Implementation-Timestamp: 2023-02-21T20:01:59+0800
+
